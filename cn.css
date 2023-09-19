@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  p {
+    color: #000;
+    font-family: Averta Demo PE;
+    padding: 42px 120px;
+    font-size: 27.147px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  p1 {
+    color: #000;
+    font-family: Averta Demo PE;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 163px 120px;
+  }
+  
+  p2 {
+    color: #565656;
+    font-family: Averta Demo PE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25.6px;
+    padding: 40px 120px;
+  }
+
+  nav {
+    background-color: #ffffff;
+    color: #000;
+    font-family: Averta Demo PE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.16px;
+    padding-right: 120px;
+  }
+  
+  nav li {
+    display: inline;
+    padding: 40px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .container {
+    display:flex;
+    justify-content:space-between;
+    align-items:center;  
+  }
+
+  button {
+    background-color: blue;
+    border-radius: 60px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Averta Demo PE;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.3px;
+    padding: 20px 40px 20px 40px;
+    margin-left: 121px;
+    margin-top: 33px;
+  }
+  
+  img {
+    flex-shrink: 0;
+    float: right;
+    border-radius: 0px 0px 0px 200px;
+    background: lightgray 50% / cover no-repeat;
+  }
